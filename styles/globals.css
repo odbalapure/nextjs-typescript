@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hamburger {
+  height: 24px;
+  width: 24px;
+}
+
+.hamburger-line-1 {
+  height: 3px;
+  background-color: #fff;
+}
+
+.hamburger-line-2 {
+  height: 3px;
+  background-color: #fff;
+}
+
+.hamburger-line-3 {
+  height: 3px;
+  background-color: #fff;
+}
